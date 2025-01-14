@@ -1,2 +1,2 @@
 # Projects
-This is a exhaustive list of the projects I have developed over the past 2 years.They range widely from regression models to generative AI solutions.
+This is an exhaustive list of my projects over the past few months. They range widely from regression models to generative AI solutions.
